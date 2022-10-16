@@ -16,8 +16,6 @@ Os arquivos <i>index.html</i>, <i>contato.html</i> e <i>app.js</i> foram criados
 - Adicionando arquivos
 - Ramificações e merge
 
-<br>
-
 <h2 id="comandos">👨🏽‍💻 Comandos aprendidos durante o curso:</h2>
 
 ```
