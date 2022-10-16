@@ -2,11 +2,9 @@
 
 > Status do Curso: Finalizado!
 
-<br>
 
 <h2>📝 Descrição:</h2>
 Os arquivos <i>index.html</i>, <i>contato.html</i> e <i>app.js</i> foram criados apenas com o objetivo de aprender e praticar os <a href="#comandos">comandos</a> listados no tópico ao fim da página.
-
 
 <br>
 
